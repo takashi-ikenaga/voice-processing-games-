@@ -1,0 +1,13 @@
+% move
+右 m i g i
+左 h i d a r i 
+上 u e
+下 sh i t a
+０ z e r o
+１ i ch i
+２ n i
+## 無音用エントリ
+% NS_B			# 文頭無音
+silB		silB
+% NS_E			# 文末無音
+silE		silE
